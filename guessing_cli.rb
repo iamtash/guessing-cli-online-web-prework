@@ -1,5 +1,5 @@
 def random_num_gen
-  srand
+  rand(1..6)
 end
 
 puts random_num_gen
