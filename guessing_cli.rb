@@ -1,5 +1,5 @@
 def random_num_gen
-  rand
+  rand(max)
 end
 
 puts random_num_gen
