@@ -12,6 +12,7 @@ def run_guessing_game
     elsif
       puts "The computer guessed #{random_num_gen}."
     else
+      puts "Goodbye!"
       break
   end
 end
