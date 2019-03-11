@@ -14,5 +14,6 @@ def run_guessing_game
     else
       puts "Goodbye!"
       break
+    end
   end
 end
